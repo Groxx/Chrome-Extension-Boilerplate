@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Options</title>
+    <link rel='stylesheet' href='styles/options.boilerplate.css'>
+    <style>
+      /* styles which apply, but don't belong in the boilerplate css */
+      .filename {
+        font-family: monospace;
+        text-decoration: underline;
+      }
+      ul {
+        padding-left: 30px;
+      }
+      /* styles just for code blocks */
+      pre {
+        padding: 5px 10px;
+      }
+      .angleBracket {
+        color: #aaa;
+      }
+      .comment {
+        color: #aaa;
+      }
+      .tagName {
+        color: #666;
+      }
+      .attribute {
+        color: #666;
+      }
+      .string {
+        color: #383;
+      }
+      .jsReserved {
+        color: #00c;
+      }
+      .jsWord {
+        color: #6b59ce;
+      }
+      .jsObject {
+        color: #00d;
+      }
+      .jsString {
+        color: #383;
+      }
+      .text {
+        color: #000;
+        font-weight: bold;
+      }
+    </style>
+    <script type='text/javascript' src='scripts/jquery-1.7.1.js'></script>
+    <script type='text/javascript' src='scripts/options.boilerplate.js'></script>
+    <script type='text/javascript'>
+      $(function() {
+        $('#prefs li').click(function() {
+          Boil.selectTab($(this));
+        });
+        $('#save').click(function() {
+          Boil.save();
+        });
+        $('#cancel').click(function() {
+          Boil.load();
+        });
+        // Localize and load existing prefs
+        Boil.localize();
+        Boil.load();
+        // tweak local links to refer to files in the extension
+        $('a.filename').each(function(idx, el){
+          var $el = $(el);
+          $el.attr('href', chrome.extension.getURL($el.attr('href')));
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div id='prefs'>
+      <div class='header'>Preferences</div>
+      <ul id='prefList'>
+        <li id='about' class='selected'>About</li>
+        <li id='general'>General Use</li>
+        <li id='advanced'>API / Advanced Use</li>
+        <li id='demo'>Demo Settings</li>
+        <li id='localization' data-l10n='l10nTabName'></li>
+        <li id='contact'>Contact</li>
+      </ul>
+      <input id='save' type='button' value='Save' />
+      <a id='cancel' href='#'>cancel</a>
+    </div>
+    <div id='content'>
+      <div id='aboutContent' class='selected'>
+        <div class='header'>
+          Welcome to the wild world of boilerplating!
+        </div>
+        <div class='content'>
+          <p>
+            Where ALL your dreams come true!
+          </p>
+          <p>
+            Provided herein is a basic boilerplate / jump-start for building an extension, which almost always requires an options page.
+          </p>
+          <p>
+            See the panels for examples, and check the source to see example usage.  All markup is optional, but your results may be surprising unless you understand what it's doing - I'll do my best to explain, you do your best to follow the conventions, and we'll get along swimmingly.
+          </p>
+        </div>
+      </div>
+      <div id='generalContent'>
+        <div class='header'>
+          General Use
+        </div>
+        <div class='content'>
+          <p>
+            At the most-simple, you'll want markup like this:
+          </p>
+          <div class='code'>
+            <!-- Don't look. -->
+            <!-- Seriously. -->
+            <!-- But it works!  Many thanks to the creators of http://mensus.net/widgets/color.shtml -->
+            <!-- Output has been tweaked, but it was still very helpful :) -->
+            <pre>
+<span class='comment'>&lt;!DOCTYPE html&gt;</span>
+<span class='angleBracket'>&lt;</span><span class='tagName'>html</span><span class='angleBracket'>&gt;</span>
+  <span class='angleBracket'>&lt;</span><span class='tagName'>head</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>meta</span><span class='angleBracket'> </span><span class='attribute'>charset</span><span class='angleBracket'>=</span><span class='string'>'UTF-8'</span><span class='angleBracket'> /&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>title</span><span class='angleBracket'>&gt;</span><span class='string'>Options</span><span class='angleBracket'>&lt;/</span><span class='tagName'>title</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>link</span><span class='angleBracket'> </span><span class='attribute'>rel</span><span class='angleBracket'>=</span><span class='string'>'stylesheet'</span><span class='angleBracket'> </span><span class='attribute'>src</span><span class='angleBracket'>=</span><span class='string'>'styles/options.boilerplate.css'</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>script</span><span class='angleBracket'> </span><span class='attribute'>type</span><span class='angleBracket'>=</span><span class='string'>'text/javascript'</span><span class='angleBracket'> </span><span class='attribute'>src</span><span class='angleBracket'>=</span><span class='string'>'scripts/jquery-1.7.1.min.js'</span><span class='angleBracket'>&gt;</span><span class='angleBracket'>&lt;/</span><span class='tagName'>script</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>script</span><span class='angleBracket'> </span><span class='attribute'>type</span><span class='angleBracket'>=</span><span class='string'>'text/javascript'</span><span class='angleBracket'> </span><span class='attribute'>src</span><span class='angleBracket'>=</span><span class='string'>'scripts/options.boilerplate.js'</span><span class='angleBracket'>&gt;</span><span class='angleBracket'>&lt;/</span><span class='tagName'>script</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>script</span><span class='angleBracket'> </span><span class='attribute'>type</span><span class='angleBracket'>=</span><span class='string'>'text/javascript'</span><span class='angleBracket'>&gt;</span>
+      <span class='jsWord'>$</span>(<span class='jsReserved'>function</span>()<span class='jsWord'> </span><span class='jsReserved'>{</span>
+        <span class='jsWord'>$</span>(<span class='string'>'#save'</span>)<span class='jsWord'>.click</span>(<span class='jsReserved'>function</span>()<span class='jsWord'> </span><span class='jsReserved'>{</span>
+          <span class='jsWord'>Boil.save</span>()<span class='jsWord'>;</span>
+          <span class='jsReserved'>return</span><span class='jsWord'> </span><span class='jsReserved'>false</span><span class='jsWord'>;</span>
+        <span class='jsReserved'>}</span>)<span class='jsWord'>;</span>
+        <span class='jsWord'>$</span>(<span class='string'>'#cancel'</span>)<span class='jsWord'>.click</span>(<span class='jsReserved'>function</span>()<span class='jsWord'> </span><span class='jsReserved'>{</span>
+          <span class='jsWord'>Boil.load</span>()<span class='jsWord'>;</span>
+          <span class='jsReserved'>return</span><span class='jsWord'> </span><span class='jsReserved'>false</span><span class='jsWord'>;</span>
+        <span class='jsReserved'>}</span>)<span class='jsWord'>;</span>
+        <span class='comment'>// Localize text, and load existing preferences</span>
+        <span class='jsWord'>Boil.localize</span>()<span class='jsWord'>;</span>
+        <span class='jsWord'>Boil.load</span>()<span class='jsWord'>;</span>
+      <span class='jsReserved'>}</span>)<span class='jsWord'>;</span>
+    <span class='angleBracket'>&lt;/</span><span class='tagName'>script</span><span class='angleBracket'>&gt;</span>
+  <span class='angleBracket'>&lt;/</span><span class='tagName'>head</span><span class='angleBracket'>&gt;</span>
+  <span class='angleBracket'>&lt;</span><span class='tagName'>body</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'prefs'</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'header'</span><span class='angleBracket'>&gt;</span><span class='text'>Preferences</span><span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;</span><span class='tagName'>ul</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'prefList'</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;</span><span class='tagName'>li</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'about'</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'selected'</span><span class='angleBracket'>&gt;</span><span class='text'>About</span><span class='angleBracket'>&lt;/</span><span class='tagName'>li</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;</span><span class='tagName'>li</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'settings'</span><span class='angleBracket'>&gt;</span><span class='text'>Settings</span><span class='angleBracket'>&lt;/</span><span class='tagName'>li</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;/</span><span class='tagName'>ul</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;</span><span class='tagName'>input</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'save'</span><span class='angleBracket'> </span><span class='attribute'>type</span><span class='angleBracket'>=</span><span class='string'>'button'</span><span class='angleBracket'> </span><span class='attribute'>value</span><span class='angleBracket'>=</span><span class='string'>'Save'</span><span class='angleBracket'> /&gt;</span>
+      <span class='angleBracket'>&lt;</span><span class='tagName'>a</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'cancel'</span><span class='angleBracket'> </span><span class='attribute'>href</span><span class='angleBracket'>=</span><span class='string'>'#'</span><span class='angleBracket'>&gt;</span><span class='text'>cancel</span><span class='angleBracket'>&lt;/</span><span class='tagName'>a</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'content'</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'aboutContent'</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'header'</span><span class='angleBracket'>&gt;</span><span class='text'>About</span><span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'content'</span><span class='angleBracket'>&gt;</span>
+          <span class='angleBracket'>&lt;</span><span class='tagName'>p</span><span class='angleBracket'>&gt;</span><span class='text'>A blurb about you!</span><span class='angleBracket'>&lt;/</span><span class='tagName'>p</span><span class='angleBracket'>&gt;</span>
+          <span class='angleBracket'>&lt;</span><span class='tagName'>p</span><span class='angleBracket'>&gt;</span><span class='text'>And probably more text too.</span><span class='angleBracket'>&lt;/</span><span class='tagName'>p</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'settingsContent'</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'header'</span><span class='angleBracket'>&gt;</span><span class='text'>Settings</span><span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'content'</span><span class='angleBracket'>&gt;</span>
+          <span class='angleBracket'>&lt;</span><span class='tagName'>fieldset</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'prefGroup'</span><span class='angleBracket'> </span><span class='attribute'>data-group-name</span><span class='angleBracket'>=</span><span class='string'>'prefs'</span><span class='angleBracket'>&gt;</span>
+            <span class='angleBracket'>&lt;</span><span class='tagName'>div</span><span class='angleBracket'> </span><span class='attribute'>class</span><span class='angleBracket'>=</span><span class='string'>'pref'</span><span class='angleBracket'>&gt;</span>
+              <span class='angleBracket'>&lt;</span><span class='tagName'>label</span><span class='angleBracket'> </span><span class='attribute'>for</span><span class='angleBracket'>=</span><span class='string'>'firstPref'</span><span class='angleBracket'>&gt;</span><span class='text'>First:</span><span class='angleBracket'>&lt;/</span><span class='tagName'>label</span><span class='angleBracket'>&gt;</span>
+              <span class='angleBracket'>&lt;</span><span class='tagName'>input</span><span class='angleBracket'> </span><span class='attribute'>id</span><span class='angleBracket'>=</span><span class='string'>'firstPref'</span><span class='angleBracket'> </span><span class='attribute'>type</span><span class='angleBracket'>=</span><span class='string'>'text'</span><span class='attribute'> placeholder=</span><span class='string'>'type in here'</span><span class='angleBracket'> /&gt;</span>
+            <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+          <span class='angleBracket'>&lt;/</span><span class='tagName'>fieldset</span><span class='angleBracket'>&gt;</span>
+        <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+      <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+    <span class='angleBracket'>&lt;/</span><span class='tagName'>div</span><span class='angleBracket'>&gt;</span>
+  <span class='angleBracket'>&lt;/</span><span class='tagName'>body</span><span class='angleBracket'>&gt;</span>
+<span class='angleBracket'>&lt;/</span><span class='tagName'>html</span><span class='angleBracket'>&gt;</span></pre>
+          </div>
+          <p>
+            It's simpler than it looks.
+            In fact, copy and paste that exact code into your own <span class='code'>options.html</span> and start with it.
+          </p>
+          <p>
+            That gets you two tabs, slightly prettified,
+            and saving and loading of your preferences into localStorage.preferences.
+            The 'save' button will save your preferences.
+            The 'cancel' button will load your existing preferences.
+            localStorage is accessible in your background file -
+            just remember to JSON.parse / .stringify when using the data.
+          </p>
+          <p>
+            The important parts are:
+            <ul>
+              <li>jQuery comes before <span class='code'>options.boilerplate.js</span>.  I plan on removing this dependency soon.</li>
+              <li>you use <span class='code'>Boil</span> to access the boilerplate JS</li>
+              <li>the basic HTML structure is intact (specifically #prefs, #content, .header (optional), and .content (required) in their respective places)</li>
+              <li>your tab list uses IDs, and your contents matches <span class='code'>idContent</span></li>
+              <li>you give your inputs <span class='code'>name</span> attributes if you want them to be saved</li>
+              <li>your starting tab and content containers are given the <span class='code'>selected</span> class</li>
+            </ul>
+          </p>
+          <p>
+            The rest can be picked up by looking at the more-detailed example pages,
+            or simply reading the source code - it's pretty small.
+            All the styles are exercised by the 'settings' example, and they're small too.
+          </p>
+        </div>
+      </div>
+      <div id='advancedContent'>
+        <div class='header'>
+          Way More Details
+        </div>
+        <div class='content'>
+          <p>
+            The main javascript API of interest exists in the <span class='code'>Boil</span> variable
+            inside <a href='scripts/options.boilerplate.js' class='filename'>scripts/options.boilerplate.js</a>.
+            It's not very large (140 lines with comments), or very complex, so it is probably worth reading
+            if you intend to do anything but the basics.
+          </p>
+          <p>
+            '<span class='code'>$</span>' means a jQuery object is expected / returned.
+            This dependency will be dropped eventually, though I will check for jQuery in these top-level functions,
+            and handle them intelligently (though I will not return jQuery objects at any stage).
+            The API consists of:
+            <dl>
+              <dt><span class='code'><span class='jsWord'>save</span>([<span class='jsString'>name</span> [, <span class='jsWord'>$container</span>]])</span></dt>
+              <dd>
+                <p>
+                  By default, saves the entire page's set of inputs to
+                  <span class='code'>localStorage.preferences</span>
+                  (uses <span class='code'>name</span> for the localStorage key).
+                  If provided, a different key-name can be used, as well as a parent
+                  container element - only its children will be serialized.  This defaults
+                  to <span class='code'>$(document)</span>, capturing <em>all</em> input fields.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>load</span>([<span class='jsString'>name</span> [, <span class='jsWord'>$container</span>]])</span></dt>
+              <dd>
+                <p>
+                  By default, loads the all saved preferences in
+                  <span class='code'>localStorage.preferences</span>
+                  (uses <span class='code'>name</span> for the localStorage key)
+                  into matching input fields (looks for <span class='code'>name</span>
+                  attributes, and respects nesting) on the entire page.
+                  If provided, a different key-name can be used, as well as a parent
+                  container element - only its children will be queried.  This defaults
+                  to <span class='code'>$(document)</span>, potentially loading into
+                  <em>all</em> input fields.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>localize</span>([<span class='jsWord'>$container</span>])</span></dt>
+              <dd>
+                <p>
+                  Looks for '<span class='code'>data-l10n</span>' attributes on
+                  <em>any</em> element on the page, and replaces the contents of those elements
+                  with the matching key-name in
+                  <!-- TODO: this will be fixed eventually, data-l10n-target will be implemented in time -->
+                  <a href='_locales/en/messages.json' class='filename'>messages.json</a>.
+                  If provided, only the passed <span class='code'>$container</span> will
+                  be searched, which can be noticeably faster than the default of
+                  <span class='code'>$(document)</span>, and will not break existing events
+                  due to replacing the elements they may be bound to.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>selectTab</span>(<span class='jsWord'>$trigger</span>)</span></dt>
+              <dd>
+                <p>
+                  When given a triggering element (by default an &lt;li&gt; inside a
+                  <span class='code'>#prefList</span>), this will update
+                  <span class='code'>.selected</span> values in both the list and
+                  set of content containers to reflect what was clicked.
+                </p>
+                <p>
+                  This works by grabbing the <span class='code'>id</span> of the trigger,
+                  and updating both the trigger and an element with an id of
+                  <span class='code'>idContent</span> with <span class='code'>.selected</span>
+                  classes.  As long as the standard pattern is followed, this should work transparently.
+                </p>
+              </dd>
+            </dl>
+          </p>
+          <p>
+            "Underneath" these are a number of helper functions you may find useful, and they are left accessible.
+            In no particular order:
+            <dl>
+              <dt><span class='code'><span class='jsWord'>escape</span>(<span class='jsString'>string</span>, <span class='jsString'>characters</span>) <span class='jsReserved'>=&gt;</span> <span class='jsString'>string</span></span></dt>
+              <dd>
+                <p>
+                  Escapes all passed <span class='code'>characters</span> in the <span class='code'>string</span>, and returns the result.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>serialize</span>([<span class='jsWord'>$container</span>]) <span class='jsReserved'>=&gt;</span> <span class='jsObject'>object</span></span></dt>
+              <dd>
+                <p>
+                  Serializes &lt;fieldset&gt;s inside <span class='code'>$container</span>, and returns the values,
+                  by recursively calling <span class='code'>serializeFieldset</span>.  If <span class='code'>$container</span> is not supplied,
+                  <span class='code'>$(document)</span> is used instead.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>marshal</span>(<span class='jsObject'>data</span>, <span class='jsWord'>$container</span>)</span></dt>
+              <dd>
+                <p>
+                  Loads data into &lt;fieldset&gt;s within <span class='code'>$container</span>, by finding the &lt;fieldset&gt;
+                  with <span class='code'>data-group-name == key</span> in <span class='code'>data</span> and loading recursively
+                  through <span class='code'>marshalFieldset</span>.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>serializeFieldset</span>(<span class='jsWord'>$fieldset</span>) <span class='jsReserved'>=&gt;</span> <span class='jsObject'>object</span></span></dt>
+              <dd>
+                <p>
+                  Serializes the contents of a <span class='code'>$fieldset</span>, and returns the object representing their values.
+                </p>
+                <p>
+                  Inputs save the value of the field to a key matching the field's <span class='code'>name</span> attribute.
+                  These need to be unique <em>per &lt;fieldset&gt;</em>, or later values will override earlier ones.
+                  Checkboxes serialize as true or false, everything else as a string.
+                </p>
+                <p>
+                  Sub-&lt;fieldset&gt;s will be saved to a key matching the <span class='code'>data-group-name</span> of the sub-&lt;fieldset&gt;.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>marshalFieldset</span>(<span class='jsObject'>data</span>, <span class='jsWord'>$fieldset</span>)</span></dt>
+              <dd>
+                <p>
+                  Loads <span class='code'>data</span> into inputs inside <span class='code'>$fieldset</span>,
+                  and recursively marshals sub-&lt;fieldsets&gt;.
+                </p>
+                <p>
+                  Marshaling logic matches serializing logic - check those definitions.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>localizeElement</span>(<span class='jsWord'>$element</span>)</span></dt>
+              <dd>
+                <p>
+                  Gets the localized message the <span class='code'>$element</span> is referring to, and sets
+                  the contents to the value as is appropriate.
+                  <ul>
+                    <li>&lt;Input&gt;s have their <span class='code'>placeholder</span> set.  This can only be a string, and it will be escaped.</li>
+                    <li>Input buttons / submits have their <span class='code'>value</span> set.  This can only be a string, and it will be escaped.</li>
+                    <li>
+                      All other elements (including &lt;button&gt;s) have their <span class='code'>innerHTML</span> set.
+                      This means you can define HTML tags in the localization, and they will be inserted.
+                      It also means you will destroy whatever was in the element, and break any existing
+                      event bindings.  Beware!
+                    </li>
+                  </ul>
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>getFieldsetElements</span>(<span class='jsWord'>$fieldset</span>) <span class='jsReserved'>=&gt;</span> <span class='jsWord'>$elements</span></span></dt>
+              <dd>
+                <p>
+                  Returns the elements in the <span class='code'>$fieldset</span> which can be serialized.
+                  Does not return values which are within sub-&lt;fieldset&gt;s.
+                </p>
+              </dd>
+              <dt><span class='code'><span class='jsWord'>getSubFieldsets</span>(<span class='jsWord'>$container</span>) <span class='jsReserved'>=&gt;</span> <span class='jsWord'>$elements</span></span></dt>
+              <dd>
+                <p>
+                  Returns the next level of &lt;fieldset&gt; elements.
+                </p>
+              </dd>
+            </dl>
+          </p>
+          <p>
+            Please note that there is very little error-checking in this code.
+            If an element was not found for a key, it will simply do nothing.
+            If an element is the wrong kind (ie, change a checkbox to a select),
+            it will have the wrong attribute set, and will probably do nothing.
+          </p>
+          <p>
+            Maybe in a later version there will be a way to set a 'debug' flag,
+            or a <span class='code'>throw</span>y version of the code that can be used instead.
+            Maybe.
+            For the moment, it is probably best to record a <span class='code'>version</span>
+            value, and write migration code that runs before you call <span class='code'>load()</span>
+            if the values are for an older (or non-existent) version.
+          </p>
+        </div>
+      </div>
+      <div id='demoContent'>
+        <div class='header'>
+          Your Settings Here (or elsewhere)
+        </div>
+        <div class='content'>
+          <p>A single top-level group of fields.</p>
+          <fieldset class='prefGroup' data-group-name='opts'>
+            <legend>A legend</legend>
+            <div class='pref'>
+              <label for='field1'>Something:</label>
+              <input id='field1' type='text' size='30' placeholder='a value' name='field 1'/>
+            </div>
+            <div class='pref'>
+              <label for='field2'>You're sure?</label>
+              <input id='field2' type='checkbox' checked name='field 2' />
+            </div>
+            <div class='pref'>
+              <label for='field3'>Alrighty then:</label>
+              <input id='field3' type='button' value='Go for it' />
+            </div>
+            <div class='pref'>
+              <label for='field100'>Single selects:</label>
+              <select id='field100' name='selectable'>
+                <option value='one'>Option One</option>
+                <option value='two'>Option Two</option>
+                <option value='three'>Option Three</option>
+              </select>
+            </div>
+            <div class='pref'>
+              <label for='field101'>Multi selects:</label>
+              <select id='field100' name='multiselectable' multiple>
+                <option value='one'>Option One</option>
+                <option value='two'>Option Two</option>
+                <option value='three'>Option Three</option>
+              </select>
+            </div>
+          </fieldset>
+          <p>Nested too!  This is the top level...</p>
+          <fieldset class='prefGroup' data-group-name='more opts'>
+            <legend>A legend</legend>
+            <div class='pref'>
+              <label for='field4'>Something:</label>
+              <input id='field4' type='text' size='30' placeholder='a value' name='more field 1' />
+            </div>
+            <div class='pref'>
+              <label for='field5'>You're sure?</label>
+              <input id='field5' type='checkbox' checked name='more field 2'/>
+            </div>
+            <p>... next is one level deeper...</p>
+            <fieldset class='prefGroup' data-group-name='sub opts'>
+              <legend>A legend</legend>
+              <div class='pref'>
+                <label for='field7'>Something:</label>
+                <input id='field7' type='text' size='30' placeholder='a value' name='sub field 1' />
+              </div>
+              <div class='pref'>
+                <label for='field8'>You're sure?</label>
+                <input id='field8' type='checkbox' checked name='sub field 2' />
+              </div>
+              <p>... and you can go as deep as you want.</p>
+              <fieldset class='prefGroup' data-group-name='sub opts'>
+                <legend>A legend</legend>
+                <div class='pref'>
+                  <label for='field10'>Something:</label>
+                  <input id='field10' type='text' size='30' placeholder='a value' name='sub field 1' />
+                </div>
+                <div class='pref'>
+                  <label for='field11'>You're sure?</label>
+                  <input id='field11' type='checkbox' checked name='sub field 2' />
+                </div>
+              </fieldset>
+            </fieldset>
+          </fieldset>
+          <p>You can also flatten the display, while still keeping nested data</p>
+          <fieldset class='prefGroup flat' data-group-name='flat opts'>
+            <legend>A legend</legend>
+            <div class='pref'>
+              <label for='field13'>Something:</label>
+              <input id='field13' type='text' size='30' placeholder='a value' name='sub field 1' />
+            </div>
+            <div class='pref'>
+              <label for='field14'>You're sure?</label>
+              <input id='field14' type='checkbox' checked name='sub field 2' />
+            </div>
+            <p>And next is a second level.  Note no visual nesting :)</p>
+            <fieldset class='prefGroup' data-group-name='flat sub opts'>
+              <legend>A legend</legend>
+              <div class='pref'>
+                <label for='field16'>Something:</label>
+                <input id='field16' type='text' size='30' placeholder='a value' name='sub field 1' />
+              </div>
+              <div class='pref'>
+                <label for='field17'>You're sure?</label>
+                <input id='field17' type='checkbox' checked name='sub field 2' />
+              </div>
+            </fieldset>
+          </fieldset>
+        </div>
+      </div>
+      <div id='localizationContent'>
+        <div class='header' data-l10n='l10nHeader'></div>
+        <div class='content'>
+          <p data-l10n='l10nFirstParagraph'></p>
+          <p data-l10n='l10nSecondParagraph' data-l10n-args='["an array","strings","arguments"]'></p>
+          <p data-l10n='l10nThirdParagraph'></p>
+          <div>
+            <span data-l10n='l10nButtonsBefore'></span>
+            <button data-l10n='l10nButton'></button>
+            <span data-l10n='l10nButtonsBetween'></span>
+            <input type='submit' data-l10n='l10nSubmit' />
+            <span data-l10n='l10nButtonsAfter'></span>
+          </div>
+          <p data-l10n='l10nExtras'></p>
+          <hr />
+          <p data-l10n='l10nIntro'></p>
+          <p data-l10n='l10nProd'></p>
+        </div>
+      </div>
+      <div id='contactContent'>
+        <div class='header'>
+          Contact me!
+        </div>
+        <div class='content'>
+          <p>
+            I'd love to hear about people using this, regardless of how much you keep.
+            In fact, I <em>expect</em> you to modify things - this project is meant as
+            a combination of a boilerplate, a basic framework to make things easier,
+            and a moderately feature-rich options pane which you may or may not even
+            use.  The code is intentionally minimal and designed for Chrome to remove
+            dependencies necessary for cross-browser support (I'm using jQuery
+            temporarily to aid in development - it will be removed later).
+          </p>
+          <p>
+            I'm not a style-whiz, and I've generally designed this based on Chrome's
+            preferences.  My overriding goal with them is to keep things simple, and
+            strongly controlled to prevent leakage into any of your styles - if you
+            have suggestions or improvements, I would greatly appreciate them!  This is
+            intentionally not highly-styled though, and I do not intend to ever do that
+            with this project - make a fork if you want that.
+          </p>
+          <p>
+            You are of course free to delete them entirely and make your own, I just
+            hated doing this kind of thing by hand every time, and wanted
+            <em>something</em> decent.
+          </p>
+          <p>
+            Mostly, you can find this project on Github at &lt;to be determined&gt;.  I
+            tend to pay attention to Twitter, and you can tweet at me:
+            <a href='http://twitter.com/groxx'>@groxx</a>.  I'm not quick there, though
+            - it's just an easy way to get some message to me w/o giving away your email
+            address or signing up somewhere else :)
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,4385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1.0"
+   width="82"
+   height="82.000008"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3506">
+      <stop
+         id="stop3508"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3510"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3824"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3826">
+      <g
+         id="g3828"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3830"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3832"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3834">
+      <g
+         id="g3836"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3838" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3840" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3399"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3033">
+      <g
+         id="g3035"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3037"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3039"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3041">
+      <g
+         id="g3043"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3045" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3047" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3386">
+      <g
+         id="g3382"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3370"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3376"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3409">
+      <g
+         id="g3405"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3401" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3403" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3280"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3272">
+      <g
+         id="g3274"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3276"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3278"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3264">
+      <g
+         id="g3266"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3268" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3270" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3258"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3250">
+      <g
+         id="g3252"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3254"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3256"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3242">
+      <g
+         id="g3244"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3246" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3248" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3228">
+      <g
+         id="g3230"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3232"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3234"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3220">
+      <g
+         id="g3222"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3224" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3226" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern2611"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern2603">
+      <g
+         id="g2605"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path2607"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path2609"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern2595">
+      <g
+         id="g2597"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path2599" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path2601" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern2589"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern2581">
+      <g
+         id="g2583"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path2585"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path2587"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern2573">
+      <g
+         id="g2575"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path2577" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path2579" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern2559">
+      <g
+         id="g2561"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path2563"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path2565"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern2551">
+      <g
+         id="g2553"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path2555" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path2557" />
+      </g>
+    </pattern>
+    <linearGradient
+       x1="286"
+       y1="162.56244"
+       x2="286"
+       y2="130.5"
+       id="linearGradient3536"
+       xlink:href="#linearGradient3506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-137,0)" />
+    <linearGradient
+       x1="31.41622"
+       y1="27.673744"
+       x2="35.976261"
+       y2="50.274151"
+       id="linearGradient90394"
+       xlink:href="#linearGradient89407"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="0.073102832"
+       y1="22.809694"
+       x2="46.577415"
+       y2="22.809694"
+       id="linearGradient73734"
+       xlink:href="#linearGradient73728"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="7.6046205"
+       y1="28.481176"
+       x2="36.183067"
+       y2="40.943935"
+       id="linearGradient16271"
+       xlink:href="#linearGradient4228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <radialGradient
+       cx="15.571491"
+       cy="2.958519"
+       r="20.935818"
+       fx="15.571491"
+       fy="2.958519"
+       id="radialGradient16267"
+       xlink:href="#linearGradient4244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.286242,0.781698,-0.710782,1.169552,53.704048,-5.0050013)" />
+    <linearGradient
+       x1="12.378357"
+       y1="4.433136"
+       x2="44.0961"
+       y2="47.620636"
+       id="linearGradient16262"
+       xlink:href="#linearGradient4254"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <linearGradient
+       x1="28.46875"
+       y1="28.125"
+       x2="20"
+       y2="26.375"
+       id="linearGradient16256"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="24.237061"
+       y1="31.712437"
+       x2="24.237061"
+       y2="28.359171"
+       id="linearGradient16253"
+       xlink:href="#linearGradient5411"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="26.3125"
+       y1="17.5"
+       x2="23.0625"
+       y2="17.5"
+       id="linearGradient16249"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="21.057629"
+       y1="2.4374962"
+       x2="26.28611"
+       y2="29.562496"
+       id="linearGradient16242"
+       xlink:href="#linearGradient2510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.1836033)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient6719"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.774389,0,0,1.969706,4627.57,-880.36808)" />
+    <linearGradient
+       id="linearGradient5060">
+      <stop
+         id="stop5062"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5064"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient6717"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,6618.0954,-880.36808)" />
+    <linearGradient
+       id="linearGradient16143">
+      <stop
+         id="stop16145"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop16147"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop16149"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="302.85715"
+       y1="366.64789"
+       x2="302.85715"
+       y2="609.50507"
+       id="linearGradient6715"
+       xlink:href="#linearGradient5048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,3662.4026,-857.92005)" />
+    <linearGradient
+       id="linearGradient2510">
+      <stop
+         id="stop2512"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2514"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5411">
+      <stop
+         id="stop5413"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5415"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5069">
+      <stop
+         id="stop5071"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5073"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16161">
+      <stop
+         id="stop16163"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop16165"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16167">
+      <stop
+         id="stop16169"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop16171"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4254">
+      <stop
+         id="stop4256"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4258"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16182">
+      <stop
+         id="stop16184"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop16186"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16188">
+      <stop
+         id="stop16190"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop16192"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient16194"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <radialGradient
+       cx="10.363534"
+       cy="32.708817"
+       r="3.8227961"
+       fx="10.363534"
+       fy="32.708817"
+       id="radialGradient1470"
+       xlink:href="#linearGradient5069"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.624277,0,12.28944)" />
+    <linearGradient
+       x1="23.599133"
+       y1="3.4934268"
+       x2="26.032751"
+       y2="13.095204"
+       id="linearGradient1482"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="24.395184"
+       y1="11.50959"
+       x2="17.766058"
+       y2="-6.4607105"
+       id="linearGradient1484"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="22.693991"
+       cy="4.9365706"
+       r="6.6291261"
+       fx="22.693991"
+       fy="4.9365706"
+       id="radialGradient1520"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.385563,0,0,2.385563,-30.8437,-6.089588)" />
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient1464"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <linearGradient
+       id="linearGradient4228">
+      <stop
+         id="stop4230"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4232"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4244">
+      <stop
+         id="stop4246"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4248"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4264">
+      <stop
+         id="stop4266"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4268"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4990">
+      <stop
+         id="stop4992"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4994"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5018">
+      <stop
+         id="stop5020"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5022"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5048">
+      <stop
+         id="stop5050"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop5056"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop5052"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18265">
+      <stop
+         id="stop18267"
+         style="stop-color:#91938e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop18269"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17251">
+      <stop
+         id="stop17253"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop17255"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient22106">
+      <stop
+         id="stop22108"
+         style="stop-color:#c0d5ea;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop22110"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient30860">
+      <stop
+         id="stop30862"
+         style="stop-color:#6392ce;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop30864"
+         style="stop-color:#23508b;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient33787">
+      <stop
+         id="stop33789"
+         style="stop-color:#3a5679;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop33791"
+         style="stop-color:#6ba2eb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient38656">
+      <stop
+         id="stop38658"
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop38660"
+         style="stop-color:#eeeeec;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient43528">
+      <stop
+         id="stop43530"
+         style="stop-color:#3584e7;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop43532"
+         style="stop-color:#142740;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient44508">
+      <stop
+         id="stop44510"
+         style="stop-color:#173764;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop44512"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient49367">
+      <stop
+         id="stop49369"
+         style="stop-color:#1f477a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop49371"
+         style="stop-color:#0f213a;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient54234">
+      <stop
+         id="stop54236"
+         style="stop-color:#102747;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop54238"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient59100">
+      <stop
+         id="stop59102"
+         style="stop-color:#0a264c;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop59104"
+         style="stop-color:#24579f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient73720">
+      <stop
+         id="stop73722"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop73724"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient73728">
+      <stop
+         id="stop73730"
+         style="stop-color:#2e3436;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop73732"
+         style="stop-color:#2e3436;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75676">
+      <stop
+         id="stop75678"
+         style="stop-color:#578aca;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop75680"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient86434">
+      <stop
+         id="stop86436"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop86438"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient86440">
+      <stop
+         id="stop86442"
+         style="stop-color:#c6c7c4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop86444"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient88428">
+      <stop
+         id="stop88430"
+         style="stop-color:#818181;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop88432"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient89407">
+      <stop
+         id="stop89409"
+         style="stop-color:#555753;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop89411"
+         style="stop-color:#555753;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient91367">
+      <stop
+         id="stop91369"
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop91371"
+         style="stop-color:#888a85;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3082">
+      <stop
+         id="stop3084"
+         style="stop-color:#5184fc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3086"
+         style="stop-color:#d0deff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3092"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3094">
+      <g
+         id="g3096"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3098"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3100"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3102">
+      <g
+         id="g3104"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3106" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3108" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3126"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3128">
+        <path
+           id="path3130"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3132"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3134"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3136">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3138"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3140" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3142"
+       xlink:href="#pattern3386" />
+    <linearGradient
+       x1="9.9584074"
+       y1="5.5"
+       x2="8.9644661"
+       y2="15.5"
+       id="linearGradient3152"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="8.5"
+       y1="15.5"
+       x2="8.5"
+       y2="0.5"
+       id="linearGradient3154"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3158">
+      <stop
+         id="stop3160"
+         style="stop-color:#f57b03;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3162"
+         style="stop-color:#faa432;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3189">
+      <stop
+         id="stop3191"
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3193"
+         style="stop-color:#888a85;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3195">
+      <stop
+         id="stop3197"
+         style="stop-color:#555753;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3199"
+         style="stop-color:#555753;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3201">
+      <stop
+         id="stop3203"
+         style="stop-color:#818181;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3205"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3207">
+      <stop
+         id="stop3209"
+         style="stop-color:#c6c7c4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3211"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3213">
+      <stop
+         id="stop3215"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3217"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3219">
+      <stop
+         id="stop3221"
+         style="stop-color:#578aca;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3223"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3231">
+      <stop
+         id="stop3233"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3235"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3237">
+      <stop
+         id="stop3239"
+         style="stop-color:#0a264c;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3241"
+         style="stop-color:#24579f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3243">
+      <stop
+         id="stop3245"
+         style="stop-color:#102747;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3247"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3249">
+      <stop
+         id="stop3251"
+         style="stop-color:#1f477a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3253"
+         style="stop-color:#0f213a;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3255">
+      <stop
+         id="stop3257"
+         style="stop-color:#173764;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3259"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3261">
+      <stop
+         id="stop3263"
+         style="stop-color:#3584e7;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3265"
+         style="stop-color:#142740;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3267">
+      <stop
+         id="stop3269"
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3271"
+         style="stop-color:#eeeeec;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3273">
+      <stop
+         id="stop3275"
+         style="stop-color:#3a5679;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3277"
+         style="stop-color:#6ba2eb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3279">
+      <stop
+         id="stop3281"
+         style="stop-color:#6392ce;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3283"
+         style="stop-color:#23508b;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3285">
+      <stop
+         id="stop3287"
+         style="stop-color:#c0d5ea;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3289"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3291">
+      <stop
+         id="stop3293"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3295"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3297">
+      <stop
+         id="stop3299"
+         style="stop-color:#91938e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3301"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3303">
+      <stop
+         id="stop3305"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3307"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop3309"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3311">
+      <stop
+         id="stop3313"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3315"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3317">
+      <stop
+         id="stop3319"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3321"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3329">
+      <stop
+         id="stop3331"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3333"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3335">
+      <stop
+         id="stop3337"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3339"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient3341"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <radialGradient
+       cx="22.693991"
+       cy="4.9365706"
+       r="6.6291261"
+       fx="22.693991"
+       fy="4.9365706"
+       id="radialGradient3343"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.385563,0,0,2.385563,-30.8437,-6.089588)" />
+    <linearGradient
+       x1="24.395184"
+       y1="11.50959"
+       x2="17.766058"
+       y2="-6.4607105"
+       id="linearGradient3345"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="23.599133"
+       y1="3.4934268"
+       x2="26.032751"
+       y2="13.095204"
+       id="linearGradient3347"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="10.363534"
+       cy="32.708817"
+       r="3.8227961"
+       fx="10.363534"
+       fy="32.708817"
+       id="radialGradient3349"
+       xlink:href="#linearGradient5069"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.624277,0,12.28944)" />
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient3351"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <linearGradient
+       id="linearGradient3353">
+      <stop
+         id="stop3355"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3357"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3359">
+      <stop
+         id="stop3361"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3363"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3371">
+      <stop
+         id="stop3373"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3375"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3377">
+      <stop
+         id="stop3379"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3381"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="302.85715"
+       y1="366.64789"
+       x2="302.85715"
+       y2="609.50507"
+       id="linearGradient3401"
+       xlink:href="#linearGradient5048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,3662.4026,-857.92005)" />
+    <linearGradient
+       id="linearGradient3403">
+      <stop
+         id="stop3405"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3407"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop3409"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient3411"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,6618.0954,-880.36808)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient3419"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.774389,0,0,1.969706,4627.57,-880.36808)" />
+    <linearGradient
+       x1="21.057629"
+       y1="2.4374962"
+       x2="26.28611"
+       y2="29.562496"
+       id="linearGradient3421"
+       xlink:href="#linearGradient2510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.1836033)" />
+    <linearGradient
+       x1="26.3125"
+       y1="17.5"
+       x2="23.0625"
+       y2="17.5"
+       id="linearGradient3423"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="24.237061"
+       y1="31.712437"
+       x2="24.237061"
+       y2="28.359171"
+       id="linearGradient3425"
+       xlink:href="#linearGradient5411"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="28.46875"
+       y1="28.125"
+       x2="20"
+       y2="26.375"
+       id="linearGradient3427"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="12.378357"
+       y1="4.433136"
+       x2="44.0961"
+       y2="47.620636"
+       id="linearGradient3429"
+       xlink:href="#linearGradient4254"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <radialGradient
+       cx="15.571491"
+       cy="2.958519"
+       r="20.935818"
+       fx="15.571491"
+       fy="2.958519"
+       id="radialGradient3431"
+       xlink:href="#linearGradient4244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.286242,0.781698,-0.710782,1.169552,53.704048,-5.0050013)" />
+    <linearGradient
+       x1="7.6046205"
+       y1="28.481176"
+       x2="36.183067"
+       y2="40.943935"
+       id="linearGradient3433"
+       xlink:href="#linearGradient4228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <linearGradient
+       x1="0.073102832"
+       y1="22.809694"
+       x2="46.577415"
+       y2="22.809694"
+       id="linearGradient3435"
+       xlink:href="#linearGradient73728"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="31.41622"
+       y1="27.673744"
+       x2="35.976261"
+       y2="50.274151"
+       id="linearGradient3437"
+       xlink:href="#linearGradient89407"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="286"
+       y1="162.56244"
+       x2="286"
+       y2="130.5"
+       id="linearGradient3447"
+       xlink:href="#linearGradient3506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-137,0)" />
+    <pattern
+       id="pattern3467"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3469">
+        <path
+           id="path3471"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3473"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3475"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3477">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3479"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3481" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3489"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3491">
+        <path
+           id="path3493"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3495"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3497"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3499">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3501"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3503" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3505"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern4232"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g4234">
+        <path
+           id="path4236"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path4238"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4224"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g4226">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4228"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path4230" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3527"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3553"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3555">
+        <path
+           id="path3557"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3559"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3561"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3563">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3565"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3567" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3575"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3577">
+        <path
+           id="path3579"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3581"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4184"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3585">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3587"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path4188" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3591"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3597"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3599">
+        <path
+           id="path3601"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3603"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4172"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3607">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3610"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3612" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3614"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3639"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3641">
+        <path
+           id="path4154"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3645"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3647"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3649">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3651"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3653" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3661"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3663">
+        <path
+           id="path3665"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3667"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3669"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3671">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3673"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3675" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3677"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3683"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3685">
+        <path
+           id="path3687"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3689"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3691"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3693">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3695"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3697" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3699"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern4539"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g4541">
+        <path
+           id="path4543"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path4545"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4531"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g4533">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4535"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path4537" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4529"
+       xlink:href="#pattern3386" />
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern4043"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4045">
+      <g
+         id="g4047"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path4049"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path4051"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern4053">
+      <g
+         id="g4055"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path4057" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path4059" />
+      </g>
+    </pattern>
+    <linearGradient
+       id="linearGradient2978">
+      <stop
+         id="stop2980"
+         style="stop-color:#5184fc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2982"
+         style="stop-color:#d0deff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3601"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3603">
+      <g
+         id="g3605"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3607"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3609"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3611">
+      <g
+         id="g3613"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3615" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3617" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3099"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3101">
+        <path
+           id="path3103"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3105"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3091"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3093">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3095"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3097" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3089"
+       xlink:href="#pattern3386" />
+    <linearGradient
+       x1="9.9584074"
+       y1="5.5"
+       x2="8.9644661"
+       y2="15.5"
+       id="linearGradient2998"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="8.5"
+       y1="15.5"
+       x2="8.5"
+       y2="0.5"
+       id="linearGradient2930"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3645">
+      <stop
+         id="stop3647"
+         style="stop-color:#f57b03;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3649"
+         style="stop-color:#faa432;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4000">
+      <stop
+         id="stop4002"
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4004"
+         style="stop-color:#888a85;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3994">
+      <stop
+         id="stop3996"
+         style="stop-color:#555753;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3998"
+         style="stop-color:#555753;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3988">
+      <stop
+         id="stop3990"
+         style="stop-color:#818181;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3992"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3982">
+      <stop
+         id="stop3984"
+         style="stop-color:#c6c7c4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3986"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3976">
+      <stop
+         id="stop3978"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3980"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3970">
+      <stop
+         id="stop3972"
+         style="stop-color:#578aca;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3974"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3958">
+      <stop
+         id="stop3960"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3962"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3952">
+      <stop
+         id="stop3954"
+         style="stop-color:#0a264c;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3956"
+         style="stop-color:#24579f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3946">
+      <stop
+         id="stop3948"
+         style="stop-color:#102747;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3950"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3940">
+      <stop
+         id="stop3942"
+         style="stop-color:#1f477a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3944"
+         style="stop-color:#0f213a;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3934">
+      <stop
+         id="stop3936"
+         style="stop-color:#173764;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3938"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3928">
+      <stop
+         id="stop3930"
+         style="stop-color:#3584e7;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3932"
+         style="stop-color:#142740;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3922">
+      <stop
+         id="stop3924"
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3926"
+         style="stop-color:#eeeeec;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3916">
+      <stop
+         id="stop3918"
+         style="stop-color:#3a5679;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3920"
+         style="stop-color:#6ba2eb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3910">
+      <stop
+         id="stop3912"
+         style="stop-color:#6392ce;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3914"
+         style="stop-color:#23508b;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3904">
+      <stop
+         id="stop3906"
+         style="stop-color:#c0d5ea;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3908"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3898">
+      <stop
+         id="stop3900"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3902"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3892">
+      <stop
+         id="stop3894"
+         style="stop-color:#91938e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3896"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3884">
+      <stop
+         id="stop3886"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3888"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop3890"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3878">
+      <stop
+         id="stop3880"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3882"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3872">
+      <stop
+         id="stop3874"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3876"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3860">
+      <stop
+         id="stop3862"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3864"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3854">
+      <stop
+         id="stop3856"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3858"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient3852"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <radialGradient
+       cx="22.693991"
+       cy="4.9365706"
+       r="6.6291261"
+       fx="22.693991"
+       fy="4.9365706"
+       id="radialGradient3850"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.385563,0,0,2.385563,-30.8437,-6.089588)" />
+    <linearGradient
+       x1="24.395184"
+       y1="11.50959"
+       x2="17.766058"
+       y2="-6.4607105"
+       id="linearGradient3848"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="23.599133"
+       y1="3.4934268"
+       x2="26.032751"
+       y2="13.095204"
+       id="linearGradient3846"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="10.363534"
+       cy="32.708817"
+       r="3.8227961"
+       fx="10.363534"
+       fy="32.708817"
+       id="radialGradient3844"
+       xlink:href="#linearGradient5069"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.624277,0,12.28944)" />
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient3842"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <linearGradient
+       id="linearGradient3836">
+      <stop
+         id="stop3838"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3840"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3830">
+      <stop
+         id="stop3832"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3834"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3818">
+      <stop
+         id="stop3820"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3822"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3812">
+      <stop
+         id="stop3814"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3816"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="302.85715"
+       y1="366.64789"
+       x2="302.85715"
+       y2="609.50507"
+       id="linearGradient3792"
+       xlink:href="#linearGradient5048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,3662.4026,-857.92005)" />
+    <linearGradient
+       id="linearGradient3784">
+      <stop
+         id="stop3786"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3788"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop3790"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient3782"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,6618.0954,-880.36808)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient3774"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.774389,0,0,1.969706,4627.57,-880.36808)" />
+    <linearGradient
+       x1="21.057629"
+       y1="2.4374962"
+       x2="26.28611"
+       y2="29.562496"
+       id="linearGradient3772"
+       xlink:href="#linearGradient2510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.1836033)" />
+    <linearGradient
+       x1="26.3125"
+       y1="17.5"
+       x2="23.0625"
+       y2="17.5"
+       id="linearGradient3770"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="24.237061"
+       y1="31.712437"
+       x2="24.237061"
+       y2="28.359171"
+       id="linearGradient3768"
+       xlink:href="#linearGradient5411"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="28.46875"
+       y1="28.125"
+       x2="20"
+       y2="26.375"
+       id="linearGradient3766"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="12.378357"
+       y1="4.433136"
+       x2="44.0961"
+       y2="47.620636"
+       id="linearGradient3764"
+       xlink:href="#linearGradient4254"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <radialGradient
+       cx="15.571491"
+       cy="2.958519"
+       r="20.935818"
+       fx="15.571491"
+       fy="2.958519"
+       id="radialGradient3762"
+       xlink:href="#linearGradient4244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.286242,0.781698,-0.710782,1.169552,53.704048,-5.0050013)" />
+    <linearGradient
+       x1="7.6046205"
+       y1="28.481176"
+       x2="36.183067"
+       y2="40.943935"
+       id="linearGradient3760"
+       xlink:href="#linearGradient4228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <linearGradient
+       x1="0.073102832"
+       y1="22.809694"
+       x2="46.577415"
+       y2="22.809694"
+       id="linearGradient3758"
+       xlink:href="#linearGradient73728"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="31.41622"
+       y1="27.673744"
+       x2="35.976261"
+       y2="50.274151"
+       id="linearGradient3756"
+       xlink:href="#linearGradient89407"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="286"
+       y1="162.56244"
+       x2="286"
+       y2="130.5"
+       id="linearGradient3746"
+       xlink:href="#linearGradient3506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-137,0)" />
+    <pattern
+       id="pattern3720"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3722">
+        <path
+           id="path3724"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3726"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3712"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3714">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3716"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3718" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3698"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3700">
+        <path
+           id="path3702"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3704"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3690"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3692">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3694"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3696" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3688"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3676"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3678">
+        <path
+           id="path3680"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3682"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3668"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3670">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3672"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3674" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3666"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3637"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3639">
+        <path
+           id="path3641"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3643"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3629"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3631">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3633"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3635" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3615"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3617">
+        <path
+           id="path3619"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3621"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3607"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3609">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3611"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3613" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3605"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3593"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3595">
+        <path
+           id="path3597"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3599"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3585"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3587">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3589"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3591" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3583"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern4046"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g4048">
+        <path
+           id="path4050"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path4052"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4038"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g4040">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4042"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path4044" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3539"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3541">
+        <path
+           id="path3543"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3545"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3531"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3533">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3535"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3537" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4025"
+       xlink:href="#pattern3386" />
+    <pattern
+       id="pattern3519"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3521">
+        <path
+           id="path3523"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3525"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3511"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3513">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3515"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3517" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3509"
+       xlink:href="#pattern3386" />
+    <linearGradient
+       id="linearGradient2922">
+      <stop
+         id="stop2924"
+         style="stop-color:#f57b03;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2926"
+         style="stop-color:#faa432;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern3443"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern3070">
+      <g
+         id="g3072"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path3074"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path3076"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern3078">
+      <g
+         id="g3080"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path3082" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path3084" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3421"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g3423">
+        <path
+           id="path3425"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path3427"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern3413"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g3415">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path3417"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path3419" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern2769">
+      <g
+         id="g2771"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path2773"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path2775"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern2777">
+      <g
+         id="g2779"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path2781" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path2783" />
+      </g>
+    </pattern>
+    <linearGradient
+       id="linearGradient4818">
+      <stop
+         id="stop4820"
+         style="stop-color:#5184fc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4822"
+         style="stop-color:#d0deff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern4828"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4830">
+      <g
+         id="g4832"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path4834"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path4836"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern4838">
+      <g
+         id="g4840"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path4842" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path4844" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4862"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g4864">
+        <path
+           id="path4866"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path4868"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4870"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g4872">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4874"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path4876" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4878"
+       xlink:href="#pattern3386" />
+    <linearGradient
+       x1="9.9584074"
+       y1="5.5"
+       x2="8.9644661"
+       y2="15.5"
+       id="linearGradient4888"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="8.5"
+       y1="15.5"
+       x2="8.5"
+       y2="0.5"
+       id="linearGradient5576"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4893">
+      <stop
+         id="stop4895"
+         style="stop-color:#f57b03;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4897"
+         style="stop-color:#faa432;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4620">
+      <stop
+         id="stop4622"
+         style="stop-color:#f57b03;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4624"
+         style="stop-color:#faa432;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="8.5"
+       y1="15.5"
+       x2="8.5"
+       y2="0.5"
+       id="linearGradient4628"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5556"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5548">
+      <g
+         id="g5550"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5552"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5554"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5540">
+      <g
+         id="g5542"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5544" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5546" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5480"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5472">
+      <g
+         id="g5474"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5476"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5478"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5464">
+      <g
+         id="g5466"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5468" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5470" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5458"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5450">
+      <g
+         id="g5452"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5454"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5456"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5442">
+      <g
+         id="g5444"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5446" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5448" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5428">
+      <g
+         id="g5430"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5432"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5434"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5420">
+      <g
+         id="g5422"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5424" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5426" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5396"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5388">
+      <g
+         id="g5390"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5392"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5394"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5380">
+      <g
+         id="g5382"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5384" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5386" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5374"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5366">
+      <g
+         id="g5368"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5370"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5372"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5358">
+      <g
+         id="g5360"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5362" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5364" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5344">
+      <g
+         id="g5346"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5348"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5350"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5336">
+      <g
+         id="g5338"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5340" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5342" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5310"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5302">
+      <g
+         id="g5304"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5306"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5308"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5294">
+      <g
+         id="g5296"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5298" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5300" />
+      </g>
+    </pattern>
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern5288"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5280">
+      <g
+         id="g5282"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5284"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5286"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5272">
+      <g
+         id="g5274"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5276" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5278" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern5258">
+      <g
+         id="g5260"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path5262"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path5264"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern5250">
+      <g
+         id="g5252"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path5254" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path5256" />
+      </g>
+    </pattern>
+    <linearGradient
+       x1="286"
+       y1="162.56244"
+       x2="286"
+       y2="130.5"
+       id="linearGradient5230"
+       xlink:href="#linearGradient3506"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-137,0)" />
+    <linearGradient
+       x1="31.41622"
+       y1="27.673744"
+       x2="35.976261"
+       y2="50.274151"
+       id="linearGradient5220"
+       xlink:href="#linearGradient89407"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="0.073102832"
+       y1="22.809694"
+       x2="46.577415"
+       y2="22.809694"
+       id="linearGradient5218"
+       xlink:href="#linearGradient73728"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="7.6046205"
+       y1="28.481176"
+       x2="36.183067"
+       y2="40.943935"
+       id="linearGradient5216"
+       xlink:href="#linearGradient4228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <radialGradient
+       cx="15.571491"
+       cy="2.958519"
+       r="20.935818"
+       fx="15.571491"
+       fy="2.958519"
+       id="radialGradient5214"
+       xlink:href="#linearGradient4244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.286242,0.781698,-0.710782,1.169552,53.704048,-5.0050013)" />
+    <linearGradient
+       x1="12.378357"
+       y1="4.433136"
+       x2="44.0961"
+       y2="47.620636"
+       id="linearGradient5212"
+       xlink:href="#linearGradient4254"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-0.1281403)" />
+    <linearGradient
+       x1="28.46875"
+       y1="28.125"
+       x2="20"
+       y2="26.375"
+       id="linearGradient5210"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="24.237061"
+       y1="31.712437"
+       x2="24.237061"
+       y2="28.359171"
+       id="linearGradient5208"
+       xlink:href="#linearGradient5411"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="26.3125"
+       y1="17.5"
+       x2="23.0625"
+       y2="17.5"
+       id="linearGradient5206"
+       xlink:href="#linearGradient5018"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.8086033)" />
+    <linearGradient
+       x1="21.057629"
+       y1="2.4374962"
+       x2="26.28611"
+       y2="29.562496"
+       id="linearGradient5204"
+       xlink:href="#linearGradient2510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.058396,-8.1836033)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient5202"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.774389,0,0,1.969706,4627.57,-880.36808)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient5194"
+       xlink:href="#linearGradient5060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,6618.0954,-880.36808)" />
+    <linearGradient
+       id="linearGradient5186">
+      <stop
+         id="stop5188"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop5190"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop5192"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="302.85715"
+       y1="366.64789"
+       x2="302.85715"
+       y2="609.50507"
+       id="linearGradient5184"
+       xlink:href="#linearGradient5048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.774389,0,0,1.969706,3662.4026,-857.92005)" />
+    <linearGradient
+       id="linearGradient5160">
+      <stop
+         id="stop5162"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5164"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5154">
+      <stop
+         id="stop5156"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5158"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5142">
+      <stop
+         id="stop5144"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5146"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5136">
+      <stop
+         id="stop5138"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5140"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient5134"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <radialGradient
+       cx="10.363534"
+       cy="32.708817"
+       r="3.8227961"
+       fx="10.363534"
+       fy="32.708817"
+       id="radialGradient5132"
+       xlink:href="#linearGradient5069"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.624277,0,12.28944)" />
+    <linearGradient
+       x1="23.599133"
+       y1="3.4934268"
+       x2="26.032751"
+       y2="13.095204"
+       id="linearGradient5130"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="24.395184"
+       y1="11.50959"
+       x2="17.766058"
+       y2="-6.4607105"
+       id="linearGradient5128"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="22.693991"
+       cy="4.9365706"
+       r="6.6291261"
+       fx="22.693991"
+       fy="4.9365706"
+       id="radialGradient5126"
+       xlink:href="#linearGradient4990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.385563,0,0,2.385563,-30.8437,-6.089588)" />
+    <radialGradient
+       cx="23.201941"
+       cy="27.096155"
+       r="23.555494"
+       fx="23.201941"
+       fy="27.096155"
+       id="radialGradient5124"
+       xlink:href="#linearGradient4264"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.651032,0,9.455693)" />
+    <linearGradient
+       id="linearGradient5118">
+      <stop
+         id="stop5120"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5122"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5112">
+      <stop
+         id="stop5114"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5116"
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5100">
+      <stop
+         id="stop5102"
+         style="stop-color:#ff8a2b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5104"
+         style="stop-color:#833a00;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5094">
+      <stop
+         id="stop5096"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5098"
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5086">
+      <stop
+         id="stop5088"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop5090"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop5092"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5080">
+      <stop
+         id="stop5082"
+         style="stop-color:#91938e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5084"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5074">
+      <stop
+         id="stop5076"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5078"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5067">
+      <stop
+         id="stop5069"
+         style="stop-color:#c0d5ea;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5072"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5061">
+      <stop
+         id="stop5063"
+         style="stop-color:#6392ce;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5065"
+         style="stop-color:#23508b;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5055">
+      <stop
+         id="stop5057"
+         style="stop-color:#3a5679;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5059"
+         style="stop-color:#6ba2eb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5049">
+      <stop
+         id="stop5051"
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5053"
+         style="stop-color:#eeeeec;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5043">
+      <stop
+         id="stop5045"
+         style="stop-color:#3584e7;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5047"
+         style="stop-color:#142740;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5037">
+      <stop
+         id="stop5039"
+         style="stop-color:#173764;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5041"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5031">
+      <stop
+         id="stop5033"
+         style="stop-color:#1f477a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5035"
+         style="stop-color:#0f213a;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5025">
+      <stop
+         id="stop5027"
+         style="stop-color:#102747;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5029"
+         style="stop-color:#548bd8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5019">
+      <stop
+         id="stop5021"
+         style="stop-color:#0a264c;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5023"
+         style="stop-color:#24579f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5013">
+      <stop
+         id="stop5015"
+         style="stop-color:#3466a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5017"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5001">
+      <stop
+         id="stop5003"
+         style="stop-color:#578aca;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5005"
+         style="stop-color:#1d395c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4995">
+      <stop
+         id="stop4997"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4999"
+         style="stop-color:#9f9f9f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4989">
+      <stop
+         id="stop4991"
+         style="stop-color:#c6c7c4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4993"
+         style="stop-color:#575955;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4983">
+      <stop
+         id="stop4985"
+         style="stop-color:#818181;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4987"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4977">
+      <stop
+         id="stop4979"
+         style="stop-color:#555753;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4981"
+         style="stop-color:#555753;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4971">
+      <stop
+         id="stop4973"
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4975"
+         style="stop-color:#888a85;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4941">
+      <stop
+         id="stop4943"
+         style="stop-color:#f57b03;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4945"
+         style="stop-color:#faa432;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="9.9584074"
+       y1="5.5"
+       x2="8.9644661"
+       y2="15.5"
+       id="linearGradient4937"
+       xlink:href="#linearGradient2922"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       xlink:href="#pattern3386"
+       id="pattern4927"
+       patternTransform="translate(-8.5,7.5)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="5"
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4919">
+      <g
+         id="g4921"
+         transform="translate(8.5,-7.5)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7,8 L -7,12"
+           id="path4923"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path4925"
+           d="M -8,8 L -8,12"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="9"
+       patternTransform="translate(-9,7)"
+       id="pattern4911">
+      <g
+         id="g4913"
+         transform="translate(9,-7)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.5,7.5 L -8.5,15.5"
+           id="path4915" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -7.5,7.5 L -7.5,15.5"
+           id="path4917" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4887"
+       patternTransform="translate(-9,7)"
+       height="9"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(9,-7)"
+         id="g4889">
+        <path
+           id="path4891"
+           d="M -8.5,7.5 L -8.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path4893"
+           d="M -7.5,7.5 L -7.5,15.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       id="pattern4879"
+       patternTransform="translate(-8.5,7.5)"
+       height="5"
+       width="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="translate(8.5,-7.5)"
+         id="g4881">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4883"
+           d="M -7,8 L -7,12"
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8,8 L -8,12"
+           id="path4885" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="translate(-8.5,7.5)"
+       id="pattern4877"
+       xlink:href="#pattern3386" />
+    <linearGradient
+       id="linearGradient4867">
+      <stop
+         id="stop4869"
+         style="stop-color:#5184fc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4871"
+         style="stop-color:#d0deff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-252.40386,4.5157622)"
+     id="g3518">
+    <path
+       d="M 293.40386,-3.5157622 C 290.6647,-3.5157622 287.98872,-3.2285702 285.40386,-2.7032621 L 285.40386,3.4842382 C 281.92902,4.3231102 278.68406,5.6688583 275.71636,7.4842384 L 271.34136,3.1092382 C 269.09872,4.5953622 267.0491,6.3390043 265.15386,8.2342384 C 263.25862,10.129473 261.51498,12.179099 260.02886,14.421739 L 264.40386,18.796739 C 262.58848,21.764435 261.24274,25.009393 260.40386,28.484239 L 254.21636,28.484239 C 253.69106,31.069094 253.40386,33.74507 253.40386,36.48424 C 253.40386,39.22341 253.69106,41.899386 254.21636,44.48424 L 260.40386,44.48424 C 261.24274,47.959086 262.58848,51.204045 264.40386,54.171741 L 260.02886,58.546741 C 261.51498,60.789381 263.25862,62.839007 265.15386,64.734241 C 267.0491,66.629475 269.09872,68.373118 271.34136,69.859242 L 275.71636,65.484241 C 278.68406,67.299621 281.92902,68.64537 285.40386,69.484242 L 285.40386,75.671742 C 287.98872,76.19705 290.66468,76.484242 293.40386,76.484242 C 296.14302,76.484242 298.819,76.19705 301.40386,75.671742 L 301.40386,69.484242 C 304.8787,68.64537 308.12366,67.299621 311.09136,65.484241 L 315.46636,69.859242 C 317.709,68.373118 319.75862,66.629475 321.65386,64.734241 C 323.5491,62.839007 325.29274,60.789381 326.77886,58.546741 L 322.40386,54.171741 C 324.21924,51.204045 325.56498,47.959086 326.40386,44.48424 L 332.59136,44.48424 C 333.11666,41.899386 333.40386,39.22341 333.40386,36.48424 C 333.40386,33.74507 333.11666,31.069094 332.59136,28.484239 L 326.40386,28.484239 C 325.56498,25.009393 324.21924,21.764435 322.40386,18.796739 L 326.77886,14.421739 C 325.29274,12.179099 323.5491,10.129473 321.65386,8.2342384 C 319.75862,6.3390043 317.709,4.5953622 315.46636,3.1092382 L 311.09136,7.4842384 C 308.12366,5.6688583 304.8787,4.3231102 301.40386,3.4842382 L 301.40386,-2.7032621 C 298.819,-3.2285702 296.14302,-3.5157622 293.40386,-3.5157622 z M 293.40386,16.484239 C 304.44386,16.484239 313.40386,25.444239 313.40386,36.48424 C 313.40386,47.52424 304.44386,56.484241 293.40386,56.484241 C 282.36386,56.484241 273.40386,47.52424 273.40386,36.48424 C 273.40386,25.444239 282.36386,16.484239 293.40386,16.484239 z"
+       id="path58241"
+       style="fill:#949096;fill-opacity:1;stroke:#2c2c2c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:162;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,134 @@
+/**** Simplifying resets ****/
+body {
+  min-height: 100%;
+  margin: 0;
+}
+/**** Main panels ****/
+/* Left panel styles */
+#prefs {
+  background-color: #eee;
+  border-right: 1px solid #ccc;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 200px; /* left pane width */
+  text-align: right;
+  overflow-y: scroll; /* in case their window is too short */
+}
+#prefs ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  /* clearfix */
+  overflow: auto;
+}
+#prefs ul li {
+  padding: 5px 10px 5px 0;
+  float: right;
+  clear: right;
+  width: 160px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  cursor: pointer;
+}
+#prefs ul li.selected {
+  background-color: #ccc;
+  text-shadow: 0 1px 0 #eee;
+  border-left: 1px solid #bbb;
+}
+#save {
+  margin-top: 20px;
+}
+#save, #cancel {
+  display: block;
+  float: right;
+  clear: right;
+  padding: 5px 0;
+  /* margins, because buttons don't pad right on OSX */
+  margin-right: 10px;
+}
+/* Right panel styles */
+#content {
+  margin: 0;
+  margin-left: 200px; /* left pane width */
+}
+#content > div {
+  display: none;
+  width: 100%;
+}
+#content > .selected {
+  display: block;
+}
+#content > div > .content {
+  padding: 5px 10px;
+}
+#content > div > .content > p:first-child {
+  /* If you start with a top-level <p> tag, drop the top margin, or things look a bit off. */
+  margin-top: 0;
+}
+/**** Input styles ****/
+/* Fieldsets, if you use them */
+fieldset.prefGroup {
+  border: none;
+  padding-left: 0;
+  padding-right: 0;
+  clear: both;
+}
+fieldset.prefGroup .pref:after {
+  /* clearfix */
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+fieldset.prefGroup legend {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+/* style correction for groups in groups */
+fieldset.prefGroup fieldset.prefGroup {
+  margin-top: 16px;
+  /* add a left border so we can show the nesting */
+  border-left: 1px solid #ccc;
+  margin-left: 5px;
+}
+/* hide extra border and padding on nested fieldsets */
+fieldset.prefGroup.flat fieldset.prefGroup {
+  border-left: none;
+  margin-left: 0;
+}
+/* Everything else */
+.prefGroup .pref {
+  clear: both;
+}
+.prefGroup .pref label {
+  width: 100px;
+  padding: 5px;
+  text-align: right;
+  display: block;
+  float: left;
+}
+.code {
+  font-family: monospace;
+  background-color: rgba(0,0,0,0.05);
+}
+/* everyone uses definition lists, right? */
+dd > p:first-child {
+  margin-top: 0;
+}
+/**** Header styles ****/
+#prefs .header, #content > div > .header {
+  font-size: 200%;
+  font-family: Georgia, serif;
+}
+#prefs .header {
+  padding: 10px;
+  margin-bottom: 1px; /* room for the border in the contents */
+}
+#content > div > .header {
+  background-color: #F0F0FF;
+  border-bottom: 1px solid #ccd;
+  padding: 10px; /* prefs padding */
+}
