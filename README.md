@@ -19,8 +19,7 @@ just load it as an unpacked extension and check out the options page.
 For the moment, the features include:
 
 * A fairly rich options page, with basic styling and preference serialization / loading.
-
-  This intentionally mimics the Chrome page, but with a lot less shiny.
+  This intentionally mimics the Chrome preferences page, but with a lot less shiny.
   It's basic and functional, which is all I really wanted.
   Options pages always feel harder to make than what I'm making the extension for
   (as I've mostly made simpler extensions),
